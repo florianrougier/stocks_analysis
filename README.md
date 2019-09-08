@@ -9,4 +9,4 @@ Neural Networks with 1D convolutional and LSTM layers
 
 This code is applicable to any stock you want to analyze.
 
-An interesting continuation would be to compare the stock prices of several big companies such as Google or Amazon.
+An interesting continuation would be to compare stock prices of several big companies such as Google or Amazon.
